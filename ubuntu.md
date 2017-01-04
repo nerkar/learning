@@ -60,3 +60,8 @@ link : http://askubuntu.com/questions/19320/how-to-enable-or-disable-services
 
 ## connect to available wifi using terminal 
 `sudo nmcli dev wifi connect ICT password 002062623`
+
+### create alias 
+add a new line in .bashrc file located in :
+~/.bashrc
+`alias mylocation='cd /home/nerkar/testing/'`
